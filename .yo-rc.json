@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "sp-fx-graph-api-calendar",
+    "libraryId": "294c7f7e-e8f3-448a-9f4f-1887dbe010b0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-fx-graph-api-calendar",
+    "solutionShortDescription": "sp-fx-graph-api-calendar description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

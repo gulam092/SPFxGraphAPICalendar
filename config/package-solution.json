@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-graph-api-calendar-client-side-solution",
+    "id": "294c7f7e-e8f3-448a-9f4f-1887dbe010b0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-fx-graph-api-calendar description"
+      },
+      "longDescription": {
+        "default": "sp-fx-graph-api-calendar description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-graph-api-calendar Feature",
+        "description": "The feature that activates elements of the sp-fx-graph-api-calendar solution.",
+        "id": "f4883208-ffc4-49b0-9401-68cf18c6d2b0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-graph-api-calendar.sppkg"
+  }
+}
